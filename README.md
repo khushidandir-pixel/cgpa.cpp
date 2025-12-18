@@ -19,5 +19,3 @@ OS: Windows (instructions use PowerShell), but code is cross-platform.
 - **Compiler:** `g++` (from MinGW or MSYS2) or any C++ compiler that supports C++17.
 - **OS:** Windows (instructions use PowerShell), but code is cross-platform.
 
-## Build
-Compile with:
